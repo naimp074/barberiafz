@@ -199,7 +199,7 @@ export function Dashboard() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-3 mb-4">
             <Scissors className="w-8 h-8 text-gray-400" />
-            <h1 className="text-4xl font-bold text-white">Peluquería El Estilo</h1>
+            <h1 className="text-4xl font-bold text-white">fzbarber</h1>
             <Scissors className="w-8 h-8 text-gray-400 scale-x-[-1]" />
           </div>
           <p className="text-gray-300 text-lg">Sistema de Control de Ganancias</p>
